@@ -45,21 +45,19 @@ https://www.codeschool.com/courses/git-real-2
 
 # Ruby & Rails
 
-## Ruby
+## Ruby Review
 
 {% include ruby_rails/ruby_review.md %}
 
-## Rails
-
-### Review
+## Rails Review
 
 {% include ruby_rails/rails_review.md %}
 
-### Advanced/Testing
+## Advanced Rails/Testing
 
 {% include ruby_rails/rails_advanced.md %}
 
-## Books
+## Ruby and Rails Books
 
 {% include ruby_rails/books.md %}
 
