@@ -14,6 +14,8 @@ end
 
 desc "Generate site and deploy to GitHub Pages"
 task :deploy do
+  current_dir = Dir.pwd
+  system 'git rev-parse && cd "$(git rev-parse --show-cdup)"'
   puts "Generating site with Jekyll..."
   system "jekyll build > /dev/null 2>&1"
   system "cp -rp _site/ ../tmp/"
@@ -38,5 +40,6 @@ task :deploy do
   puts "Deploying..."
   system "git add --all && git commit -m 'Update site' --quiet && git push origin gh-pages --quiet"
   system "git checkout master --quiet"
+  system "cd #{current_dir}"
   puts "Done."
 end
