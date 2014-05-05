@@ -13,7 +13,8 @@ end
 desc "Generate site and deploy to GitHub Pages"
 task :deploy do
   current_dir = Dir.pwd
-  commit_message = IO.popen("git log -1 --pretty=%B").readlines.first.strip
+  commit_message = IO.popen("git log -1 --pretty=%B").
+    readlines.first.strip.gsub('"', "'")
   `git rev-parse && cd "$(git rev-parse --show-cdup)"`
   puts "Generating site with Jekyll..."
   `jekyll build > /dev/null 2>&1`
@@ -37,7 +38,7 @@ task :deploy do
   `cp -r ../tmp/ ./`
   `rm -rf ../tmp > /dev/null 2>&1`
   puts "Deploying..."
-  `git add --all && git commit -m #{commit_message} --quiet && git push origin gh-pages --quiet`
+  `git add --all && git commit -m "#{commit_message}" --quiet && git push origin gh-pages --quiet`
   `git checkout master --quiet`
   `cd #{current_dir}`
   puts "Done."
