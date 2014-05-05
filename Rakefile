@@ -1,11 +1,11 @@
 desc "Setup GitHub Pages Branch"
-task :setup_github do
+task :setup do
   system "git checkout -b gh-pages"
   system "git checkout master"
 end
 
 desc "Generate site and deploy to GitHub Pages"
-task :deploy_github do
+task :deploy do
   system "jekyll build"
   system "cp -rp _site/ ../tmp/"
   system "git checkout gh-pages"
