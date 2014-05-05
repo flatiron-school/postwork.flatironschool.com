@@ -21,29 +21,29 @@ Be a unicorn, know it all.
 
 Try to pick a simple domain (maybe [TodoMVC](http://todomvc.com/)) so that as you learn new languages and frameworks, you can implement that same problem over and over again.
 
-## Other Things to Do Besides Learning
+# Other Things to Do Besides Learning
 
 Finally this document suggests other things that you can do to increase your value.
 
-### Blog
+## Blog
 
 Start writing serious blog posts. Use SEO, write good titles, keep the articles professional (so less personal narratives, just informative content). Use clean code examples. Format things correctly. And then start promoting the blog posts. Send them to elana@flatironschool.com and stephanie@flatironschool.com so we can promote them to our networks. Ping [Peter Cooper](http://twitter.com/peterc) of [RubyWeekly](http://rubyweekly.com/) and his other 50 newsletters. We could even start a Newsletter for the 3,000 people in NYC on Rails. You can also contact bloggers like [Smashing Magazine](http://www.smashingmagazine.com/), and [Treehouse Blog](http://blog.teamtreehouse.com/) and [Hakka Labs](http://www.hakkalabs.co/), [Huff Po Code](http://www.huffingtonpost.com/huffpost-code/) and 100s of others (let's start compiling a list of blogs that take guests posts and developer relationships with those authors). Make it a goal of yours to get a post in RubyWeekly or on a Guest Blog. Be brave.
 
-### Screencasts
+## Screencasts
 
-### Meetups
+## Meetups
 
-### Hackathons
+## Hackathons
 
-### Conferences
+## Conferences
 
-## General
+# General
 
 https://www.codeschool.com/courses/discover-devtools
 https://www.codeschool.com/courses/git-real
 https://www.codeschool.com/courses/git-real-2
 
-## Ruby & Rails
+# Ruby & Rails
 
 http://teamtreehouse.com/library/ruby-foundations
 https://www.codeschool.com/courses/ruby-bits
@@ -66,22 +66,22 @@ https://www.codeschool.com/courses/testing-with-rspec
 
 https://www.codeschool.com/courses/surviving-apis-with-rails
 
-### Learn Ruby on Rails
+## Learn Ruby on Rails
 
 http://learn-rails.com/students
 FLATIRON discount code
 
-### Eloquent Ruby
+## Eloquent Ruby
 
-### Everyday Rails Testing with RSpec
+## Everyday Rails Testing with RSpec
 
-### Refactoring Ruby
+## Refactoring Ruby
 
-### The Rails 4 Way
+## The Rails 4 Way
 
-### Practical Object Oriented Design in Ruby
+## Practical Object Oriented Design in Ruby
 
-## Javascript
+# Javascript
 
 https://leanpub.com/javascript-allonge/read
 http://tddjs.com/
@@ -92,20 +92,22 @@ http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascrip
 http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-2
 https://github.com/liammclennan/JavaScript-Koans
 
-### Eloquent Javascript
+## Eloquent Javascript
 
-### Javascript the Good Parts
+## Javascript the Good Parts
 
-### Javascript Roadtrip
+## Javascript Roadtrip
 
 https://www.codeschool.com/courses/javascript-road-trip-part-1
 https://www.codeschool.com/courses/javascript-road-trip-part-2
 https://www.codeschool.com/courses/javascript-road-trip-part-3
 
-### jQuery
+## jQuery
 
 https://www.codeschool.com/courses/try-jquery
 https://www.codeschool.com/courses/jquery-the-return-flight
+
+## Frameworks
 
 ### Backbone
 
@@ -128,13 +130,13 @@ http://nodeschool.io/
 
 http://teamtreehouse.com/library/building-with-angularjs-and-apis
 
-## iOS & RubyMotion
+# iOS & RubyMotion
 
-### Objective-C
+## Objective-C
 
 https://www.codeschool.com/courses/try-objective-c
 
-### iOS
+## iOS
 
 https://www.codeschool.com/courses/try-ios
 
