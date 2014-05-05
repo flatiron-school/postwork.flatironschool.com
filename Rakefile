@@ -13,7 +13,7 @@ end
 desc "Generate site and deploy to GitHub Pages"
 task :deploy do
   current_dir = Dir.pwd
-  message = IO.popen("git log -1 --pretty=%B").readlines.first.strip
+  commit_message = IO.popen("git log -1 --pretty=%B").readlines.first.strip
   `git rev-parse && cd "$(git rev-parse --show-cdup)"`
   puts "Generating site with Jekyll..."
   `jekyll build > /dev/null 2>&1`
