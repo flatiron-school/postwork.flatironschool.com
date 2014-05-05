@@ -3,7 +3,7 @@ layout: default
 title: Postwork
 ---
 
-# Flatiron School Ruby Intensive Postwork
+# Ruby Intensive Postwork
 
 The first version of the prework we tried to assemble all of the best resources
 for learning to build a web application in Rails. With our students, we noticed
