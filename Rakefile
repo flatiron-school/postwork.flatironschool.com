@@ -1,8 +1,11 @@
 desc "Setup GitHub Pages Branch"
 task :setup do
-  io = IO.popen("git branch -v")
-  log = io.readlines
-  if log.any? {|line| line.match(/gh-pages/)}
+  all_branches = IO.popen("git branch -a").readlines
+  if all_branches.any? {|line| line.match(/gh-pages/)}
+    local_branches = IO.popen("git branch -v").readlines
+    if !local_branches.any? {|line| line.match(/gh-pages/)}
+      `git checkout gh-pages --quiet && git checkout master --quiet`
+    end
     puts "Already setup!"
   else
     `git checkout -b gh-pages --quiet && git checkout master --quiet`
