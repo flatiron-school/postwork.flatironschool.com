@@ -15,7 +15,7 @@ end
 
 desc "Generate site and deploy to GitHub Pages"
 task :deploy do
-  `git remote update`
+  `git remote update > /dev/null 2>&1`
   diff = `git rev-list HEAD...origin/master --count`.to_i
   if diff != 0
     puts "You must pull changes before deploying."
