@@ -14,7 +14,7 @@
  */
 (function($) {
     var toggleHTML = '';
-    var tocContainerHTML = '<a href="/"><h1>Flatiron School Prework</h1></a>%2';
+    var tocContainerHTML = '<a href="/"><h1>Flatiron School Postwork</h1></a>%2';
 
     function createLevelHTML(anchorId, tocLevel, tocSection, tocNumber, tocText, tocInner) {
         var link = '<a href="#%1">%3</a>%4'
