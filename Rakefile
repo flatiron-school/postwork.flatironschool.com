@@ -17,7 +17,7 @@ task :deploy_github do
   system "rm -rf font"
   system "rm -rf js"
   system "rm -rf jekyll"
-  sysetm "rm .gitignore"
+  system "rm .gitignore"
   system "rm _config.yml"
   system "rm CNAME"
   system "rm index.md"
