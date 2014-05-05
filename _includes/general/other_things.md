@@ -1,0 +1,13 @@
+Finally this document suggests other things that you can do to increase your value.
+
+## Blog
+
+Start writing serious blog posts. Use SEO, write good titles, keep the articles professional (so less personal narratives, just informative content). Use clean code examples. Format things correctly. And then start promoting the blog posts. Send them to elana@flatironschool.com and stephanie@flatironschool.com so we can promote them to our networks. Ping [Peter Cooper](http://twitter.com/peterc) of [RubyWeekly](http://rubyweekly.com/) and his other 50 newsletters. We could even start a Newsletter for the 3,000 people in NYC on Rails. You can also contact bloggers like [Smashing Magazine](http://www.smashingmagazine.com/), and [Treehouse Blog](http://blog.teamtreehouse.com/) and [Hakka Labs](http://www.hakkalabs.co/), [Huff Po Code](http://www.huffingtonpost.com/huffpost-code/) and 100s of others (let's start compiling a list of blogs that take guests posts and developer relationships with those authors). Make it a goal of yours to get a post in RubyWeekly or on a Guest Blog. Be brave.
+
+## Screencasts
+
+## Meetups
+
+## Hackathons
+
+## Conferences
