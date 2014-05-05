@@ -5,109 +5,138 @@ title: Postwork
 
 # Ruby Intensive Postwork
 
-The first version of the prework we tried to assemble all of the best resources
-for learning to build a web application in Rails. With our students, we noticed
-that the pre-work wasn't preparing them as well as it could have. We were
-missing a big opportunity. Our students expressed that the pre-work went for
-breadth over depth. Rather than honing in on ruby, the meat of our curriculum,
-a lot of time was spent on HTML and CSS which is an important but secondary
-piece.
+So you've graduated the Flatiron School Ruby track. And you're super tired because you've been working super hard for 12 weeks and you're anxious about your future and trying to learn CS stuff so you can get through technical interviews and it's a lot. We understand. But guess what? This is just the beginning. You have a long and exciting future ahead. It's there for you. You just need to keep on walking this path. Keep on learning. Find your strength. Continue the effort. 
 
-We strongly belive that learning should have context, and you should know what
-your goals are.  Each section will address which learning objectives it will
-cover, and at the beginning we expect all of you to check out the Ruby
-assesment so you know what you'll be expected to do at the end.  There's an
-infinite amount of things you could spend your time learning, part of the value
-of the prework is that we can narrow the scope to only the most essential.  If
-you can achieve fluency in the following topics we believe you'll flourish at
-the Flatiron School.
-## Setup
+This guide is a collection of resources you should get through in the next 3-6 months. We think it's a great use of your time in between interviews. Instead of freaking out and getting nervous, we think this is a better way to focus your anxieties and energy. 
 
-To complete these units, you will need a [Treehouse](http://teamtreehouse.com/)
-and
-[CodeSchool](http://www.codeschool.com/enrollments/dnFtaXFMbXROSVVqT3N1bngwWnBRUjhGc2k1Z1dEOW52cFJvZEMzRUZvRT0tLWpvUElMODBvdFhiZlA4MjE2Mlc2c1E9PQ==)
-account. They
-are each normally $25 a month, so figure you might spend $50-$100 depending on
-how quickly you get through the material. So far the fine folks at
-[CodeSchool](http://www.codeschool.com/enrollments/dnFtaXFMbXROSVVqT3N1bngwWnBRUjhGc2k1Z1dEOW52cFJvZEMzRUZvRT0tLWpvUElMODBvdFhiZlA4MjE2Mlc2c1E9PQ==)
-have created a $9 trial month for all Flatiron Preworkers. Register using that
-link. Treehouse will offer something similar soon. You also will need a
-[CodeAcademy](http://codeacademy.com/) account which is free.
+Be better, it's the best way to get a job and advance. Even when you get a job, you should use your nights and weekends for the next year to go through these things. The path is long, don't sprint, but you must continue putting in effort. Be consistent. Develop this habit. I'm sure you all surprised yourselves with how much you learned in 12 weeks. Trust that it was all you, Flatiron School is just a cog in your machine. Keep going.
 
-You should also have a Rails Development environment setup. There are lots of
-guides for that on the internet and depending on your OS and setup, it's a bit
-of a process. You could always use the cross-platform [Install Rails](http://installrails.com/).
+This postwork includes review material. We're never too advanced to not learn something from reviewing the fundamentals.
 
-Note to students accepted into the Flatiron School. We will provide you with an
-account to treehouse and codeschool, feel free to use your own to get started,
-but we cover those costs for the duration of the prework and semester.
+It also includes some advanced concepts about code, Ruby, and Rails.
 
-## Thoughts
+It even introduces concepts and frameworks we never covered, such as Object Oriented Javascript, frontend frameworks, Node.JS, Javascript testing, and even iOS, Objective-C, and RubyMotion.
 
-One of the challenges in learning how to code is that you probably don't even
-know what you're supposed to learn. When creating this prework, we had 4 goals
-in mind.
+Be a unicorn, know it all.
 
-  1. **Full Stack**
+Try to pick a simple domain (maybe [TodoMVC](http://todomvc.com/)) so that as you learn new languages and frameworks, you can implement that same problem over and over again.
 
-  We'll present the full stack of technologies required to build a webapp from
-  the ground up. We don't care if you use ERB or HAML. The web is built on HTML
-  and everyone should learn it. Whether NoSQL or RDBMS, understanding the
-  fundamentals of schema design and SQL is crucial. Students shouldn't shy away
-  from depth. How can you be a web developer without a proficiency in these
-  skills?
-  2. **Linear Progression**
+## Other Things to Do Besides Learning
 
-  The material is presented in order, going from web basics and computer
-  basics, to markup, to styling, to version control, to programming, and then
-  to databases and web frameworks. You learn the basics of code through Ruby
-  and then finally move to Rails that builds upon the rest. Thus you start at
-  the lowest level, the literal HTML the browser renders, and progress up
-  through levels of abstraction until you finally get to the kitchen sink that
-  is the Rails framework. As a beginner, don't try to learn Rails without
-  knowing basic HTML/CSS and ruby. It's a disservice to your education.
+Finally this document suggests other things that you can do to increase your value.
 
-  3. **Curated Resources**
+### Blog
 
-  There is such a plethora of amazing content on learning to code. We liked the
-  consistency of going to a few sources that all shared common interfaces and
-  learning patterns, like videos and interactive portions. So this isn't a
-  complete list of all the resources, but more a curated list of what we think
-  works well together (with lots of feedback from alumni). We would love it if
-  you submitted a github issue with more materials you've enjoyed.
+Start writing serious blog posts. Use SEO, write good titles, keep the articles professional (so less personal narratives, just informative content). Use clean code examples. Format things correctly. And then start promoting the blog posts. Send them to elana@flatironschool.com and stephanie@flatironschool.com so we can promote them to our networks. Ping [Peter Cooper](http://twitter.com/peterc) of [RubyWeekly](http://rubyweekly.com/) and his other 50 newsletters. We could even start a Newsletter for the 3,000 people in NYC on Rails. You can also contact bloggers like [Smashing Magazine](http://www.smashingmagazine.com/), and [Treehouse Blog](http://blog.teamtreehouse.com/) and [Hakka Labs](http://www.hakkalabs.co/), [Huff Po Code](http://www.huffingtonpost.com/huffpost-code/) and 100s of others (let's start compiling a list of blogs that take guests posts and developer relationships with those authors). Make it a goal of yours to get a post in RubyWeekly or on a Guest Blog. Be brave.
 
-  4. **Language Agnosticism**
+### Screencasts
 
-  In the end, programming is about abstractions and expressions. The mechanics
-  of code are universal and exist in all modern languages, like python, ruby,
-  and javascript. We teach Ruby because we love it. Thinking your language
-  choice, especially as a beginner, matters, is like thinking that you can only
-  write poetry in English and not in Spanish. Obviously the beauty of poetry is
-  in rhyme and meter, in metaphor and simile, in cadence and rhythm, not in the
-  king's English. Why should code be any different? At Flatiron, you're
-  learning how to think, how to break problems down, how to express yourself,
-  how to abstract ideas, and how to work together. We just learn that through
-  Ruby.
+### Meetups
 
-## Learning Objectives
+### Hackathons
 
-The goal of this tutorial is to be able to do the following:
+### Conferences
 
-  1. Be comfortable navigating your development environment
-  2. Understand where programming skills fit into the "web"
-  3. Understand what pieces make up a web application
-  4. Develop a level of comfort with the most common ruby patterns in web development
-  5. Understand the basics of version control and why it is used
-  6. Have a basic understanding of HTML including forms
-  7. Through Rails you should learn the following:
-      * RESTful interfaces
-      * HTTP
-      * Routing
-      * Where ruby fits in the web development stack
-  8. Develop a comfort with basic SQL queries
-  9. Have a basic understanding of an ORM, ActiveRecord
-  10. Develop a basic knowledge of HTML and CSS
+## General
 
+https://www.codeschool.com/courses/discover-devtools
+https://www.codeschool.com/courses/git-real
+https://www.codeschool.com/courses/git-real-2
+
+## Ruby & Rails
+
+http://teamtreehouse.com/library/ruby-foundations
+https://www.codeschool.com/courses/ruby-bits
+https://www.codeschool.com/courses/ruby-bits-part-2
+http://teamtreehouse.com/library/ruby-20-walkthrough
+
+http://teamtreehouse.com/library/build-a-todo-list-application-with-rails-4
+http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application
+https://www.codeschool.com/courses/rails-for-zombies-redux
+https://www.codeschool.com/courses/rails-for-zombies-2
+https://www.codeschool.com/courses/rails-4-zombie-outlaws
+https://www.codeschool.com/courses/rails-4-patterns
+
+http://teamtreehouse.com/library/advanced-social-features-in-ruby-on-rails
+
+https://www.codeschool.com/courses/rails-best-practices
+
+https://www.codeschool.com/courses/rails-testing-for-zombies
+https://www.codeschool.com/courses/testing-with-rspec
+
+https://www.codeschool.com/courses/surviving-apis-with-rails
+
+### Learn Ruby on Rails
+
+http://learn-rails.com/students
+FLATIRON discount code
+
+### Eloquent Ruby
+
+### Everyday Rails Testing with RSpec
+
+### Refactoring Ruby
+
+### The Rails 4 Way
+
+### Practical Object Oriented Design in Ruby
+
+## Javascript
+
+https://leanpub.com/javascript-allonge/read
+http://tddjs.com/
+http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X
+http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+http://teamtreehouse.com/library/javascript-foundations
+http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-1
+http://teamtreehouse.com/library/programming-stepbystep-objectoriented-javascript-part-2
+https://github.com/liammclennan/JavaScript-Koans
+
+### Eloquent Javascript
+
+### Javascript the Good Parts
+
+### Javascript Roadtrip
+
+https://www.codeschool.com/courses/javascript-road-trip-part-1
+https://www.codeschool.com/courses/javascript-road-trip-part-2
+https://www.codeschool.com/courses/javascript-road-trip-part-3
+
+### jQuery
+
+https://www.codeschool.com/courses/try-jquery
+https://www.codeschool.com/courses/jquery-the-return-flight
+
+### Backbone
+
+https://www.codeschool.com/courses/anatomy-of-backbonejs
+https://www.codeschool.com/courses/anatomy-of-backbonejs-part-2
+
+### Ember.JS
+https://www.codeschool.com/courses/warming-up-with-emberjs
+https://github.com/radar/guides/blob/master/ember.md
+https://leanpub.com/emberjs-testingonrails
+
+### Node.JS
+https://www.codeschool.com/courses/real-time-web-with-nodejs
+
+https://leanpub.com/nodebeginner
+https://leanpub.com/nodecraftsman
+http://nodeschool.io/
+
+### Angular
+
+http://teamtreehouse.com/library/building-with-angularjs-and-apis
+
+## iOS & RubyMotion
+
+### Objective-C
+
+https://www.codeschool.com/courses/try-objective-c
+
+### iOS
+
+https://www.codeschool.com/courses/try-ios
 
 # The Basics
 
