@@ -45,41 +45,23 @@ https://www.codeschool.com/courses/git-real-2
 
 # Ruby & Rails
 
-http://teamtreehouse.com/library/ruby-foundations
-https://www.codeschool.com/courses/ruby-bits
-https://www.codeschool.com/courses/ruby-bits-part-2
-http://teamtreehouse.com/library/ruby-20-walkthrough
+## Ruby
 
-http://teamtreehouse.com/library/build-a-todo-list-application-with-rails-4
-http://teamtreehouse.com/library/build-a-simple-ruby-on-rails-application
-https://www.codeschool.com/courses/rails-for-zombies-redux
-https://www.codeschool.com/courses/rails-for-zombies-2
-https://www.codeschool.com/courses/rails-4-zombie-outlaws
-https://www.codeschool.com/courses/rails-4-patterns
+{% include ruby_rails/ruby_review.md %}
 
-http://teamtreehouse.com/library/advanced-social-features-in-ruby-on-rails
+## Rails
 
-https://www.codeschool.com/courses/rails-best-practices
+### Review
 
-https://www.codeschool.com/courses/rails-testing-for-zombies
-https://www.codeschool.com/courses/testing-with-rspec
+{% include ruby_rails/rails_review.md %}
 
-https://www.codeschool.com/courses/surviving-apis-with-rails
+### Advanced/Testing
 
-## Learn Ruby on Rails
+{% include ruby_rails/rails_advanced.md %}
 
-http://learn-rails.com/students
-FLATIRON discount code
+## Books
 
-## Eloquent Ruby
-
-## Everyday Rails Testing with RSpec
-
-## Refactoring Ruby
-
-## The Rails 4 Way
-
-## Practical Object Oriented Design in Ruby
+{% include ruby_rails/books.md %}
 
 # Javascript
 
