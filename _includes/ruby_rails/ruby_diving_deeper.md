@@ -7,3 +7,5 @@ Take some time to really explore Ruby:
 https://www.codeschool.com/courses/ruby-bits
 https://www.codeschool.com/courses/ruby-bits-part-2
 http://teamtreehouse.com/library/ruby-20-walkthrough
+
+Join [Codewars](http://www.codewars.com/?language=ruby) to test your knowledge and sharp your skills.
