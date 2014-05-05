@@ -3,7 +3,7 @@ body { padding-top: 24px; }
 footer {text-align: center; margin-bottom: 20px; }
 .navbar .brand { font-weight: bold; }
 .document .highlight { padding: 10px 0; }
-.sidebar-nav h1 {font-size: 16px;}
+.sidebar-nav h1 {font-size: 15px;}
 
 body { color: #839496; background-color: #002b36;}
 body, p, input, select, button, textarea, code, pre, .navbar-search .search-query { font-family: Inconsolata; font-size: 14px; }
