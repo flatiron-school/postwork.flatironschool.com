@@ -1,5 +1,3 @@
-## Chrome DevTools and Git
+{% include general/devtools.md %}
 
-https://www.codeschool.com/courses/discover-devtools
-https://www.codeschool.com/courses/git-real
-https://www.codeschool.com/courses/git-real-2
+{% include general/git.md %}
