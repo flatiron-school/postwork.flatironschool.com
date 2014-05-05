@@ -1,6 +1,6 @@
 desc "Setup GitHub Pages Branch"
 task :setup_github do
-  system "git checkout -b gh_pages"
+  system "git checkout -b gh-pages"
   system "git checkout master"
 end
 
@@ -8,7 +8,7 @@ desc "Generate site and deploy to GitHub Pages"
 task :deploy_github do
   system "jekyll build"
   system "cp -rp _site/ ../tmp/"
-  system "git checkout gh_pages"
+  system "git checkout gh-pages"
   system "rm -rf _includes"
   system "rm -rf _layouts"
   system "rm -rf _posts"
@@ -25,6 +25,6 @@ task :deploy_github do
   system "rm index.html"
   system "cp -r ../tmp/ ./"
   system "rm -rf ../tmp"
-  system "git add --all && git commit -m 'Update site' && git push origin gh_pages"
+  system "git add --all && git commit -m 'Update site' && git push origin gh-pages"
   system "git checkout master"
 end
