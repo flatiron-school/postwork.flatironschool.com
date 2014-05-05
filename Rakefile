@@ -3,9 +3,7 @@ task :setup do
   io = IO.popen("git branch -v")
   log = io.readlines
   if log.any? {|line| line.match(/gh-pages/)}
-    puts <<-DONE.gsub(/^ {6}/, '')
-    Already setup!
-    DONE
+    puts "Already setup!"
   else
     system "git checkout -b gh-pages --quiet && git checkout master --quiet"
     puts "Done."
