@@ -2,7 +2,7 @@ desc "Setup GitHub Pages Branch"
 task :setup do
   io = IO.popen("git remote -v")
   log = io.readlines
-  if !log.any? {|line| line.match(/gh-pages/)}
+  if log.any? {|line| line.match(/gh-pages/)}
     puts <<-DONE.gsub(/^ {6}/, '')
     Already setup!
     DONE
