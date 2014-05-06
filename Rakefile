@@ -17,7 +17,17 @@ desc "Generate site and deploy to GitHub Pages"
 task :deploy do
   `git remote update > /dev/null 2>&1`
   diff = `git rev-list HEAD...origin/master --count`.to_i
-  if diff != 0
+  uncommitted = `git status --porcelain 2>/dev/null| grep "^M" | wc -l`.to_i
+  unstaged = `git status --porcelain 2>/dev/null| grep "^ M" | wc -l`.to_i
+  total_uncommitted = `git status --porcelain 2>/dev/null| egrep "^(M| M)" | wc -l`.to_i
+  
+  if uncommitted != 0
+    puts "You have uncommitted changes that will be lost if you deploy."
+  elsif unstaged != 0
+    puts "You have unstaged changes that will be lost if you deploy."
+  elsif total_uncommitted != 0
+    puts "You have uncommitted or unstaged changes that will be lost if you deploy."
+  elsif diff != 0
     puts "You must pull and push changes before deploying."
   else
     current_dir = Dir.pwd
