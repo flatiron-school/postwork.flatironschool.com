@@ -6,17 +6,17 @@ Take some time to really explore Ruby.
 
 First, dive into Ruby 2.0. Sure, it's not the newest version any more, but you can learn a ton about the language by looking at what has changed from earlier versions. The jump from 1.9 to 2.0 was a big one.
 
-####[Ruby 2.0 Walkthrough](http://teamtreehouse.com/library/ruby-20-walkthrough)
+###[Ruby 2.0 Walkthrough](http://teamtreehouse.com/library/ruby-20-walkthrough)
 
 [http://teamtreehouse.com/library/ruby-20-walkthrough](http://teamtreehouse.com/library/ruby-20-walkthrough)
 
 Next, go through the Code School Ruby Bits courses. They dive into some stuff you may not currently use all the time, but you'll end up understanding some really cool (and more advanced) stuff.
 
-####[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
+###[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 
 [https://www.codeschool.com/courses/ruby-bits](https://www.codeschool.com/courses/ruby-bits)
 
-####[Ruby Bits 2](https://www.codeschool.com/courses/ruby-bits-part-2)
+###[Ruby Bits 2](https://www.codeschool.com/courses/ruby-bits-part-2)
 
 [https://www.codeschool.com/courses/ruby-bits-part-2](https://www.codeschool.com/courses/ruby-bits-part-2)
 
