@@ -1,6 +1,6 @@
 ## Advanced Rails/Testing
 
-### [Rails 4 Pattersn](https://www.codeschool.com/courses/rails-4-patterns)
+### [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)
 
 [https://www.codeschool.com/courses/rails-4-patterns](https://www.codeschool.com/courses/rails-4-patterns)
 
