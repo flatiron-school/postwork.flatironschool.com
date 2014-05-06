@@ -1,5 +1,7 @@
 ## Books
 
+These are some of our favorite books on Ruby and Rails.
+
 ### Learn Ruby on Rails
 
 http://learn-rails.com/students
