@@ -22,4 +22,6 @@ Next, go through the Code School Ruby Bits courses. They dive into some stuff yo
 
 ###[Codewars](http://www.codewars.com/?language=ruby)
 
+[http://www.codewars.com/?language=ruby](http://www.codewars.com/?language=ruby)
+
 Love Project Euler, but which it had a slicker interface, and was more language-specific? Join [Codewars](http://www.codewars.com/?language=ruby) to test your knowledge of Ruby (and other languages!) and sharpen your skills.
