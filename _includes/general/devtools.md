@@ -8,7 +8,6 @@ The ability to debug your JavaScript and quickly fix layout issues is a key tool
 
 What's the best way to get a sense of how something works? Yep, the documentation. Read it, then read it again.
 
-
 ###[Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
 
 [https://www.codeschool.com/courses/discover-devtools](https://www.codeschool.com/courses/discover-devtools)
