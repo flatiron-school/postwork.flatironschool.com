@@ -4,7 +4,6 @@ It never hurts to review the fundamentals of a language. More importantly, thoug
 
 ### [Treehouse Ruby Foundations](http://teamtreehouse.com/library/ruby-foundations)
 
-
 [http://teamtreehouse.com/library/ruby-foundations](http://teamtreehouse.com/library/ruby-foundations)
 
 This is a great overview of the fundamental parts of Ruby you'll use day in and day out.
