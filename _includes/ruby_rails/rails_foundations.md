@@ -1,5 +1,7 @@
 ### Rails Foundations
 
+With such a large framework, it's easy to let some of the basics slip through the cracks. Review these fundamentals of the Rails framework. Now that you're a more experienced developer, you'll find gems in all of these resources that increase your understanding of Ruby and Rails.
+
 ### [Build a Todo List Application with Rails 4](http://teamtreehouse.com/library/build-a-todo-list-application-with-rails-4)
 
 [http://teamtreehouse.com/library/build-a-todo-list-application-with-rails-4](http://teamtreehouse.com/library/build-a-todo-list-application-with-rails-4])
