@@ -10,7 +10,7 @@ They're also really fun, which is a nice bonus. And they are great places to pla
 
 ChallengePost is a great place to find both in person and online hackathons. You should lean towards doing in person ones, but if you also want to find cool problems to work on in your spare time, this is a great resource.
 
-###[Meetup](http://hackathon.meetup.com/)
+###[Meetup.com](http://hackathon.meetup.com/)
 
 [http://hackathon.meetup.com/](http://hackathon.meetup.com/)
 
