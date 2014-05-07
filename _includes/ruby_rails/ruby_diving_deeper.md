@@ -29,3 +29,9 @@ Learn the more advanced bits every Ruby programmer should know. This advanced Ru
 [http://www.codewars.com/?language=ruby](http://www.codewars.com/?language=ruby)
 
 Love Project Euler, but wish it had a slicker interface, and was more language-specific? Join [Codewars](http://www.codewars.com/?language=ruby) to test your knowledge of Ruby (and other languages!) and sharpen your skills.
+
+###[Advanced Rake](http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/)
+
+[http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/](http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/)
+
+Rake is something you see all over the place in the world of Ruby, but it's very much under-used and under-appreciated. These seven short screencasts (from [Ruby Tapas](http://rubytapas.com/)) give an excellent look into some of the more advanced features and uses of Rake.
