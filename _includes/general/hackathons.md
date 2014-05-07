@@ -16,13 +16,11 @@ ChallengePost is a great place to find both in person and online hackathons. You
 
 There are tons of meetup groups dedicated to hosting and participating in hackathons. This is a great place to see what's out there.
 
-
 ###[Hacker League](https://www.hackerleague.org/hackathons)
 
 [https://www.hackerleague.org/hackathons](https://www.hackerleague.org/hackathons)
 
 This isn't the most organized resource, but it lists huge numbers of hackathons you can participate in. It's worth checking out every once in a while.
-
 
 ###[Hackathon.io](http://www.hackathon.io/)
 
