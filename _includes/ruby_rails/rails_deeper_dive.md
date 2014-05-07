@@ -1,5 +1,7 @@
 ### Deeper Dive/Testing
 
+Some (or all) of these resources should still be review for you. But they dive more deeply into the framework, and cover testing. Go through them and absorb as much as possible. You'll pick up new patterns that you can start using in the applications you build.
+
 ### [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)
 
 [https://www.codeschool.com/courses/rails-4-patterns](https://www.codeschool.com/courses/rails-4-patterns)
