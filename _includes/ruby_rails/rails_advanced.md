@@ -1,4 +1,4 @@
-## Advanced Rails/Testing
+### Advanced Rails/Testing
 
 ### [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)
 
