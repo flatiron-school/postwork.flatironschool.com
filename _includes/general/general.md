@@ -4,4 +4,4 @@
 
 {% include general/project_euler.md %}
 
-{% include general/algorithms.md %}
+{% include general/computer_science.md %}
