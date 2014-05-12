@@ -17,4 +17,5 @@ These are four awesome, bite-sized Ember tutorials. Go through them. And then do
 [https://leanpub.com/emberjs-testingonrails](https://leanpub.com/emberjs-testingonrails)
 
 >Testing Ember.js is a widely discussed topic. Learn some of the things I've discovered that aid testing, particularly for Rails developers.
+>
 >—Martin Feckie
