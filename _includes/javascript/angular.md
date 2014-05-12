@@ -28,6 +28,12 @@ A nice, quick tutorial you can breeze through after going through the above reso
 
 >AngularJS has a reputation for a steep learning curve. It's definitely complex, but follows the 80/20 rule. 20% of the features are what you will use 80% of the time. If you are new to AngularJS and have a weekend to study, there are some very high quality resources that will let you start Monday with a strong working knowledge of AngularJS.
 
+### [A Step-by-Step Guide to Your First AngularJS App](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
+
+[http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
+
+This is an easily-digestible guide to building a simple AngularJS app.
+
 ### [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
 [https://github.com/jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
