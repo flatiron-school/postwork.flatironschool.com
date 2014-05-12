@@ -37,6 +37,7 @@ title: Postwork
 
 {% include javascript/frameworks.md %}
 
+<!---
 # iOS & RubyMotion
 
 {% include ios/objective_c.md %}
@@ -44,7 +45,7 @@ title: Postwork
 {% include ios/ios.md %}
 
 {% include ios/rubymotion.md %}
-
+-->
 # About
 
 {% include general/credits.md %}
