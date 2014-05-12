@@ -6,7 +6,7 @@ Attending meetups is a great way to get involved in the Ruby and larger develope
 
 Need some practice presenting? Want to polish up an idea before submitting to a CFP for conferences? Meetups are great places to present. There are so many out there that they are always looking for people to talk. You'll be a shoo-in.
 
-###[Meetup.com](http://www.meetup.com/)
+### [Meetup.com](http://www.meetup.com/)
 
 [http://www.meetup.com/](http://www.meetup.com/)
 

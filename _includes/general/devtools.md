@@ -2,13 +2,13 @@
 
 The ability to debug your JavaScript and quickly fix layout issues is a key tool in your web development toolbelt. Become a pro at using the Chrome DevTools by reviewing the following resources:
 
-###[DevTools Documentation](https://developers.google.com/chrome-developer-tools/)
+### [DevTools Documentation](https://developers.google.com/chrome-developer-tools/)
 
 [https://developers.google.com/chrome-developer-tools/](https://developers.google.com/chrome-developer-tools/)
 
 What's the best way to get a sense of how something works? Yep, the documentation. Read it, then read it again.
 
-###[Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
+### [Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
 
 [https://www.codeschool.com/courses/discover-devtools](https://www.codeschool.com/courses/discover-devtools)
 
