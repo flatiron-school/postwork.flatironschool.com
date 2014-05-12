@@ -1,4 +1,4 @@
-### Backbone
+### Backbone.js
 
 ### [The Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbonejs)
 

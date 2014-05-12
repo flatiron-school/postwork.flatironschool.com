@@ -1,4 +1,4 @@
-### Node.JS
+### Node.js
 
 https://www.codeschool.com/courses/real-time-web-with-nodejs
 https://leanpub.com/nodebeginner

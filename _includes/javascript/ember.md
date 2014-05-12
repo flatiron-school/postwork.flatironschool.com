@@ -1,4 +1,4 @@
-### Ember.JS
+### Ember.js
 
 ### [Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-emberjs)
 
