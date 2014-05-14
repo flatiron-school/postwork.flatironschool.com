@@ -14,7 +14,11 @@
 
 This tutorial will guide you through the process of creating a full-stack application. It features step-by-step instructions on how to build a fantasy football application, code snippets of the full application, and explantations on design decisions.
 
-Alternate version without any backend code using Firebase [available here](http://www.thinkster.io/angularjs/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase).
+### [Shaping Up with AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+[https://www.codeschool.com/courses/shaping-up-with-angular-js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+Learn to use AngularJS by adding behavior to your HTML and speeding up your application's responsiveness. Get ready to dive into all the angles of AngularJS!
 
 ### [Ultimate Guide to Learning AngularJS in One Day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
