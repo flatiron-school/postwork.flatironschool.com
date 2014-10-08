@@ -19,15 +19,7 @@ title: Postwork
 
 {% include ruby_rails/ruby_review.md %}
 
-{% include ruby_rails/ruby_foundations.md %}
-
-{% include ruby_rails/ruby_diving_deeper.md %}
-
 {% include ruby_rails/rails_review.md %}
-
-{% include ruby_rails/rails_foundations.md %}
-
-{% include ruby_rails/rails_deeper_dive.md %}
 
 {% include ruby_rails/books.md %}
 
