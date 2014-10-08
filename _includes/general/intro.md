@@ -8,8 +8,10 @@ This postwork includes review material. We're never too advanced to not learn so
 
 It also includes some advanced concepts about code, Ruby, and Rails.
 
-It even introduces concepts and frameworks we never covered, such as Object Oriented Javascript, frontend frameworks, Node.JS, Javascript testing, and even iOS, Objective-C, and RubyMotion.
+It even introduces concepts and frameworks we never covered, such as Object Oriented Javascript, front-end frameworks, Node.JS, and Javascript testing.
 
 Be a unicorn, know it all.
 
-Try to pick a simple domain (maybe [TodoMVC](http://todomvc.com/)) so that as you learn new languages and frameworks, you can implement that same problem over and over again.
+Most importantly, **apply your learning**: always be building. Use these resources as jumping off points for building new things. 
+
+Think of using a simple domain (maybe [TodoMVC](http://todomvc.com/)) so that as you learn new languages and frameworks, you can implement that same problem over and over again.
