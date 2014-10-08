@@ -12,6 +12,6 @@ It even introduces concepts and frameworks we never covered, such as Object Orie
 
 Be a unicorn, know it all.
 
-Most importantly, <b>apply your learning</b>: <em>always be building</em>. Use these resources as jumping off points for building new things. 
+Most importantly, <em>apply your learning</em>. Always be building! Use these resources as jumping off points for building new things. 
 
 Think of using a simple domain (maybe [TodoMVC](http://todomvc.com/)) so that as you learn new languages and frameworks, you can implement that same problem over and over again.
