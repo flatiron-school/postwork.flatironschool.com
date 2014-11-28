@@ -32,6 +32,11 @@ Learn Rails testing for your applications with these testing fundamentals. Brush
 
 Learn to use this trusted testing framework for Ruby applications. Brush up on testing best practices with the Testing with RSpec course.
 
+### [RSpec Best Practices](http://betterspecs.org/)
+[http://betterspecs.org/](http://betterspecs.org/)
+
+Concise but informative resource on best practices with RSpec. If you're already doing RSpec tests, this is a must-have for writing great specs. 
+
 ### [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)
 
 [https://www.codeschool.com/courses/surviving-apis-with-rails](https://www.codeschool.com/courses/surviving-apis-with-rails)
