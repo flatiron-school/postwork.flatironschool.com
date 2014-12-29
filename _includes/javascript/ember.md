@@ -4,7 +4,7 @@
 
 [http://andycrum.com/2014/05/17/an-introduction-to-ember-js/](http://andycrum.com/2014/05/17/an-introduction-to-ember-js/)
 
-A short blog post that explains how Ember.js is different from other front-end frameworks, how to get started, and go throughs a quick example application.
+A short blog post that explains how Ember.js is different from other front-end frameworks, how to get started, and go through a quick example application.
 
 ### [Warming Up With Ember.js](https://www.codeschool.com/courses/warming-up-with-emberjs)
 
