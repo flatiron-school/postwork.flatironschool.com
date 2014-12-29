@@ -48,7 +48,7 @@ Part II of this Princeton course covers graph-processing algorithms, including m
 
 [https://www.udacity.com/course/cs215](https://www.udacity.com/course/cs215)
 
-Ever played the Kevin Bacon game? This class will sho you how it works by giving you an introduction to the design and analysis of algorithms, enabling you to discover how individuals are connected.
+Ever played the Kevin Bacon game? This class will show you how it works by giving you an introduction to the design and analysis of algorithms, enabling you to discover how individuals are connected.
 
 ### [Algorithms: Design and Analysis, Part I](https://www.coursera.org/course/algo)
 
