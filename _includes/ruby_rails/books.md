@@ -32,7 +32,7 @@ To get it for free, use the discount code: FLATIRON
 
 [http://www.amazon.com/gp/product/0321545044](http://www.amazon.com/gp/product/0321545044)
 
-This is a grea companion book to *Refactoring: Ruby Edition*. Treat it like a workbook. It's fantastic.
+This is a great companion book to *Refactoring: Ruby Edition*. Treat it like a workbook. It's fantastic.
 
 ### [The Rails 4 Way](https://leanpub.com/tr4w)
 
@@ -50,7 +50,7 @@ This is a grea companion book to *Refactoring: Ruby Edition*. Treat it like a wo
 
 [http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330)
 
->Ruby's widely admired ease of use has a downside: Too many Ruby and Rails applications have been created without concern for their long-term maintenance or eveolution. The Web is awash in Ruby code that is now virtually impossible to change or extend. This text helps you solve that problem by using powerful real-world object-oriented design techniques, which it thoroughly explains using simple and practical Ruby examples.
+>Ruby's widely admired ease of use has a downside: Too many Ruby and Rails applications have been created without concern for their long-term maintenance or evolution. The Web is awash in Ruby code that is now virtually impossible to change or extend. This text helps you solve that problem by using powerful real-world object-oriented design techniques, which it thoroughly explains using simple and practical Ruby examples.
 
 Sandi Metz' book should be read and reread and reread again and again. It's incredible.
 
