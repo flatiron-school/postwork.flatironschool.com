@@ -10,7 +10,7 @@
 
 [http://tddjs.com/](http://tddjs.com/)
 
->Tired of `console.log`-ing your way out of trouble? Weary from constant fear of cross-browser issues? Scared of making even the slightest change to production code? ***Test-Driven JavaScript Development*** teaches you how to solve these issues and more using unit tests and TDD. Rich with examples, the book provides a solid foundation on automated testing, a test-driven walk-through of JavaScript's unique qualities, and five practical exampels of building solid, reusable, cross-browser JavaScript using TDD.
+>Tired of `console.log`-ing your way out of trouble? Weary from constant fear of cross-browser issues? Scared of making even the slightest change to production code? ***Test-Driven JavaScript Development*** teaches you how to solve these issues and more using unit tests and TDD. Rich with examples, the book provides a solid foundation on automated testing, a test-driven walk-through of JavaScript's unique qualities, and five practical examples of building solid, reusable, cross-browser JavaScript using TDD.
 
 ### [Pro JavaScript Design Patterns](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X)
 
@@ -22,7 +22,7 @@
 
 [http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593272820](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593272820)
 
->***Eloquent JavaScript*** goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, controle structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming.
+>***Eloquent JavaScript*** goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming.
 
 ### [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 

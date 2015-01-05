@@ -2,7 +2,7 @@
 
 Another great way to get your work noticed and your voice out into the Ruby and larger programming communities is to create screencasts. Think about the resources you'd have loved to find online, and turn them into bite-sized video lessons.
 
-A great place to start is to turn a blog post or two that you've written into a tutorial. Try to keep them short, and easily digestable.
+A great place to start is to turn a blog post or two that you've written into a tutorial. Try to keep them short, and easily digestible.
 
 Once we launch IronCasts, you can even submit them there. More details on that soon.
 
@@ -24,4 +24,4 @@ You have to pay for these amazing, short screencasts from Avdi Grimm, but it's s
 
 [https://www.destroyallsoftware.com/screencasts](https://www.destroyallsoftware.com/screencasts)
 
-Solid, solid screencasts. No longer being made, but the ones that exist are great examples of what can be acomplished in a 10-15 minute video. They are a bit pricey, but we're working on getting them on the cheap.
+Solid, solid screencasts. No longer being made, but the ones that exist are great examples of what can be accomplished in a 10-15 minute video. They are a bit pricey, but we're working on getting them on the cheap.

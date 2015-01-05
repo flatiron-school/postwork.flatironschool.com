@@ -10,7 +10,7 @@ Learn the fundamentals to the JavaScript language. You will learn how to program
 
 [https://github.com/liammclennan/JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans)
 
-JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequeunce.
+JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.
 
 ### [JavaScript Road Trip, Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 

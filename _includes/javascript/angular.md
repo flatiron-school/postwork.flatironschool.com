@@ -12,7 +12,7 @@
 ](http://www.thinkster.io/angularjs/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps
 )
 
-This tutorial will guide you through the process of creating a full-stack application. It features step-by-step instructions on how to build a fantasy football application, code snippets of the full application, and explantations on design decisions.
+This tutorial will guide you through the process of creating a full-stack application. It features step-by-step instructions on how to build a fantasy football application, code snippets of the full application, and explanations on design decisions.
 
 ### [Shaping Up with AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
@@ -42,7 +42,7 @@ This is an easily-digestible guide to building a simple AngularJS app.
 
 [https://github.com/jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
-This is an *amazing* collection of resources in a convienently-clonable GitHub repo.
+This is an *amazing* collection of resources in a conveniently-cloneable GitHub repo.
 
 ### [Building with AngularJS and APIs](http://teamtreehouse.com/library/building-with-angularjs-and-apis)
 

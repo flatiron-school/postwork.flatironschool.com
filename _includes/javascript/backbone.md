@@ -10,7 +10,7 @@ Learn Backbone.js and start building sophisticated and structured web apps. Try 
 
 [https://www.codeschool.com/courses/anatomy-of-backbonejs-part-2](https://www.codeschool.com/courses/anatomy-of-backbonejs-part-2)
 
-Learn more advanced Backbone.js for building sophisticated and structured web apps. Take your front-end to the next level with the Anayomy of Backbone Part 2.
+Learn more advanced Backbone.js for building sophisticated and structured web apps. Take your front-end to the next level with the Anatomy of Backbone Part 2.
 
 ### [Learn Backbone.js Completely](http://javascriptissexy.com/learn-backbone-js-completely/)
 
